@@ -19,7 +19,7 @@ The objective of this project is to make C++ program to:
 ## Key Features
 
 - **String Processing:**  
-  The program parses the user input string to extract connection types and resistance values using functions like `strtok()`.
+  The program parses the user input string to extract connection types and resistance values.
   
 - **Modular Design:**  
   Separate functions are implemented for calculating resistance in series and parallel configurations.
